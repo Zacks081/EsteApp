@@ -1,6 +1,6 @@
 const loader = document.getElementById("loader");
 const loaderText = document.getElementById("loader-text");
-const loadingMessages = ["Conectando...", "Recopilando los mejores momentos...", "Desencriptando sentimientos...", "Preparando algo especial..."];
+const loadingMessages = ["Conectando...", "Recopilando los mejores momentos...", "Desencriptando sentimientos...", "Preparando pregunta importante..."];
 const SHOW_LOADER = true;
 
 if (SHOW_LOADER) {
